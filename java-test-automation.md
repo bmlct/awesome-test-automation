@@ -1,6 +1,6 @@
 # Java test automation 
 
-A comprehensive curated list of Java test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on Java.
+A comprehensive curated list of Java test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation on Java. Sponsored by http://sdclabs.com
 
 [![Have questions\issues\problems, join the chat at https://gitter.im/atinfo/awesome-test-automation](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/atinfo/awesome-test-automation)
 
@@ -72,6 +72,7 @@ Also:
     * [darcy](https://github.com/darcy-framework) - An open source Java 8 framework for modeling user interfaces as page objects with a declarative, automation-library-agnostic DSL
     * [Satisfy](http://satisfy.tapack.io) - An open source Java framework based on Thucydides + Jbehave. Supports to work with WebUI, SOAP, REST, emails, files and generate random data out of the box.
     * [JDI UI Test Automation Framework](https://github.com/epam/JDI/) - is the test Framework for UI test automation. It extends the Page Objects design pattern and introduces many additional elements along with implementation of its common usages.
+    * [Geb Framework](http://gebish.org/) - A groovy test automation framework designed for the use with the Webdriver Page Object model and the Spock Framework for (BDD).
 - extensions
     * [BrowserMob Proxy](https://github.com/lightbody/browsermob-proxy) - Is a simple utility that makes it easy to capture performance data from browsers, typically written using automation toolkits such as Selenium and Watir.
     * [Selenium-Grid-Extras](https://github.com/groupon/Selenium-Grid-Extras) - Simplify the management of the Selenium Grid Nodes and stabilize said nodes by cleaning up the test environment after the build has been completed

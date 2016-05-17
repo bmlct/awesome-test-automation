@@ -1,6 +1,6 @@
 # Mobile, Tablet, TV test automation
 
-A comprehensive curated list of Mobile, Tablet, TV test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation.
+A comprehensive curated list of Mobile, Tablet, TV test automation frameworks, tools, libraries and software to help software engineers easily bootstrap test automation. Sponsored by http://sdclabs.com
 
 [![Have questions\issues\problems, join the chat at https://gitter.im/atinfo/awesome-test-automation](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/atinfo/awesome-test-automation)
 
@@ -25,6 +25,7 @@ Also:
 * [appium](http://appium.io/) - An open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS and Android apps using the WebDriver protocol.
 * [Winium.StoreApps](https://github.com/2gis/Winium.StoreApps/) - An open source test automation tool for Windows Store apps, tested on emulators. It is Selenium Remote WebDriver implementation.
 * [Calabash](http://calaba.sh/) - A cross-platform test automation framework for Android and iOS native and hybrid applications. Calabash’s easy-to-understand syntax enables even non-technical people to create and execute automated acceptance tests for apps on both of these mobile platforms.
+* [Macaca](https://macacajs.github.io/macaca/) - Solution for Automation Test with Ease. Both Mobile, Desktop Platforms Supported, native, Hybrid, Mobile Web Multi-applications Supported, Command line tools & CI Solution provided.
 
 ## Android
 * [Robotium](https://code.google.com/p/robotium/) - An Android test automation framework that fully supports native and hybrid applications. Robotium makes it easy to write powerful and robust automatic black-box UI tests for Android applications. With the support of Robotium, test case developers can write function, system and user acceptance test scenarios, spanning multiple Android activities.
